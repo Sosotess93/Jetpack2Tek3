@@ -5,6 +5,8 @@
 This is a C coding project for Epitech's sophomores, 
 The goal of this project is to create a game like Jetpack Joyride.
 
+Open subject.pdf for more information about this project.
+
 ![alt text](https://github.com/Sosotess93/Jetpack2Tek3/blob/master/screen.png)
 
 
@@ -16,7 +18,7 @@ The goal of this project is to create a game like Jetpack Joyride.
 * **Repository access**
   * Follow this [guide](https://help.github.com/articles/generating-an-ssh-key/) to add ssh access on this repository.
 
-## Jetpack2Tek3
+## How to use ?
 * **Linux**
   * - Open a terminal, compile with the make command.
   * - Open a second terminal
