@@ -32,7 +32,7 @@ The goal of this project is to create a game like Jetpack Joyride.
 ### Remember to launch the server first or it will not work!
 
 ## Credits
-Arthur Malaise
+Arthur Malaise</br>
 Sofiane Charrad (https://github.com/Sosotess93)
  
 ## Contact
