@@ -22,6 +22,7 @@ The goal of this project is to create a game like Jetpack Joyride.
   * - Open a second terminal
   * - ./server -p [PORT] -g [GRAVITY] -m [MAP]
   * - ./client -h [IP] -p [PORT]
+
 Example : 
   ./serverJ2T3 -p 9090 -g 1 -m Map/map1.txt
   ./clientJ2T3 -h 127.0.0.1 -p 9090 
